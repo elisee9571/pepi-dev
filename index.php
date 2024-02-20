@@ -1,3 +1,5 @@
+<?php $name = "Lilian" ?> 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,5 +13,6 @@
 
     <p>voici ma nouvelle branch</p>
     
+    <?php echo 'Bienvenu le sang, ' $name ?>
 </body>
 </html>
