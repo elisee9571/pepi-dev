@@ -11,8 +11,8 @@
     <h1>Hello</h1>
     <p>voici ma modification</p>
 
-    <p>voici ma nouvelle branch</p>
+    <p>voici ma nouvelle </p>
     
-    <?php echo 'Bienvenu le sang, ' $name ?>
+    <?php echo 'Bienvenu le sang,'.$name ?>
 </body>
 </html>
