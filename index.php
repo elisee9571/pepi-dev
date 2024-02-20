@@ -1,3 +1,5 @@
+<?php $name = "Elisée" ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,8 +10,9 @@
 <body>
     <h1>Hello</h1>
     <p>voici ma modification</p>
-
     <p>voici ma nouvelle branch</p>
+
+    <?php echo 'Bienvenue mon très chers, ' . $name ?>
     
 </body>
 </html>
